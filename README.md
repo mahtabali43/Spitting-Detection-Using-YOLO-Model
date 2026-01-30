@@ -9,6 +9,7 @@ This project implements an automated spitting detection system using the YOLOv8 
 * Custom dataset of ~900 manually annotated images
 * Single class: **spitting**
 * Includes variations in lighting conditions, camera angles, backgrounds, and human postures
+* Drive link- https://drive.google.com/drive/folders/1oK4YlA-_KLCyU-sd06tyqReSKW_cuf4j?usp=drive_link
 
 ## Methodology
 
@@ -24,5 +25,5 @@ This project implements an automated spitting detection system using the YOLOv8 
 
 ## Features
 
-* Real-time detection on images and video streams
-* High accuracy with low false positives and
+* Real-time detection on images and also can do for videos
+* High accuracy with low false positives
